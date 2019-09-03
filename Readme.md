@@ -1,5 +1,7 @@
 # Учебный проект «Барбершоп»
 
+Наставник: Михаил Поданев
+
 * Студент: [Andrey Kirson](https://up.htmlacademy.ru/htmlcss/26/user/1136945).
 
 ---
